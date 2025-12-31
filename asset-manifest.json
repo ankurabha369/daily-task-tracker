@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/daily-task-tracker/static/css/main.cebbbbdb.css",
-    "main.js": "/daily-task-tracker/static/js/main.69dddfff.js",
+    "main.css": "/daily-task-tracker/static/css/main.eb947db6.css",
+    "main.js": "/daily-task-tracker/static/js/main.e0478a96.js",
     "static/js/453.5326c5b9.chunk.js": "/daily-task-tracker/static/js/453.5326c5b9.chunk.js",
     "index.html": "/daily-task-tracker/index.html",
-    "main.cebbbbdb.css.map": "/daily-task-tracker/static/css/main.cebbbbdb.css.map",
-    "main.69dddfff.js.map": "/daily-task-tracker/static/js/main.69dddfff.js.map",
+    "main.eb947db6.css.map": "/daily-task-tracker/static/css/main.eb947db6.css.map",
+    "main.e0478a96.js.map": "/daily-task-tracker/static/js/main.e0478a96.js.map",
     "453.5326c5b9.chunk.js.map": "/daily-task-tracker/static/js/453.5326c5b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cebbbbdb.css",
-    "static/js/main.69dddfff.js"
+    "static/css/main.eb947db6.css",
+    "static/js/main.e0478a96.js"
   ]
 }
